@@ -1,0 +1,6 @@
+{
+  "name": "AutoTrade",
+  "description": "Premium automotive marketplace with smart query filtering, AI vehicle Valuation, real-time Finance calculator, and a virtual Sales Assistant powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
